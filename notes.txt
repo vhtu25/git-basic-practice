@@ -1,0 +1,3 @@
+Day la bai thuc hanh Git.
+File nay chua duoc commit.
+Da hoc cach tao commit va xem lich su Git.
